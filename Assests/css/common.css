@@ -1,0 +1,72 @@
+body{
+
+    background-color: #eee;
+}
+
+.text-center > a{
+
+    text-decoration: none;
+    color: #2d2654;
+}
+
+#main_body{
+    background-color: white !important;
+}
+
+.heading{
+
+    border-bottom: 1px gray dotted;
+}
+
+.profile-img{
+
+    border: 1px gray solid;
+    width: 10.5rem;
+    height: 10.5rem;
+}
+
+#right-side{
+
+    border-left: 1px gray dotted;
+}
+
+.navbar{
+
+    background-color: #2d2654 !important;
+}
+
+.nav-brand{
+
+    font-size: 5em;
+}
+.nav-link{
+
+    color: #a6a6a6;
+}
+
+.nav-link:hover{
+
+    color: white !important;
+}
+
+footer{
+    color:#a6a6a6;
+    font-size: 0.9em;
+}
+
+.flink{
+
+    color: black;
+
+    text-decoration: none !important;
+}
+
+#foolink:hover{
+
+    color: orangered;
+
+}
+
+
+
+
